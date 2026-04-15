@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  Computer Scientist · University of Málaga · Backend & Deep Learning
+</p>
 
-<!--
-**santossjesuss/santossjesuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,ts,react,go,postgres,git,docker,arch" />
+</p>
 
-Here are some ideas to get you started:
+## About me
+<p>
+  Hi! I'm a Computer Science graduate from the University of Málaga (UMA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I specialize in Backend systems and Deep Learning. When I develop software I like to build organized systems, 
+  basing my design on software modelling and a clean architecture.
+</p>
+
+---
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
