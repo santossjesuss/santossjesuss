@@ -1,3 +1,5 @@
+![Header](./github-profile-header.png)
+
 <p align="center">
   Computer Scientist · University of Málaga · Backend & Deep Learning
 </p>
@@ -7,13 +9,12 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,ts,react,go,postgres,git,docker,arch" />
 </p>
 
+---
 ## About me
-<p>
-  Hi! I'm a Computer Science graduate from the University of Málaga (UMA).
+Hi! I'm a Computer Science graduate from the University of Málaga (UMA).
 
-  I specialize in Backend systems and Deep Learning. When I develop software I like to build organized systems, 
-  basing my design on software modelling and a clean architecture.
-</p>
+I specialize in Backend systems and Deep Learning. When I develop software I like to build organized systems, 
+basing my design on software modelling and a clean architecture.
 
 ---
 ## Contact
